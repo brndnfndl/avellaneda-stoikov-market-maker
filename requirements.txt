@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+openpyxl>=3.1
+arch>=6.2          # optional: GARCH(1,1) sigma estimator
+jupyter>=1.0
+# shift-python is installed from the SHIFT simulator distribution, not PyPI:
+# https://github.com/hanlonlab/shift-python/wiki
